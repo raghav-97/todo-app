@@ -7,7 +7,7 @@ The application provides a minimalistic and intuitive interface.
 
 The project is deployed using Netlify.
 
-[Link Here] (https://todoxyzbib.netlify.app/)
+[Link Here](https://todoxyzbib.netlify.app/)
 
 ## Installation 
 
